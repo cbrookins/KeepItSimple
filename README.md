@@ -11,7 +11,7 @@ Screenshot
 
 Demo
 ---------
-[http://tech.brookins.info](http://tech.brookins.info)
+[http://unjustdingo.xyz](http://unjustdingo.xyz)
 
 
 [screenshot]:https://raw.githubusercontent.com/cbrookins/KeepItSimple/master/screenshot.jpg "screenshot"
