@@ -14,4 +14,4 @@ Demo
 [http://unjustdingo.xyz](http://unjustdingo.xyz)
 
 
-[screenshot]:https://raw.githubusercontent.com/cbrookins/KeepItSimple/master/screenshot.jpg "screenshot"
+[screenshot]:https://raw.githubusercontent.com/theRealc2c2/KeepItSimple/master/screenshot.jpg "screenshot"
